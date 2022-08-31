@@ -7,4 +7,6 @@ public class Water {
     // we can't live without water
 
     // water is an important resource for our planet
+
+    // we need water
 }
